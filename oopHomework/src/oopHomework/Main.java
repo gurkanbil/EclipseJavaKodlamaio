@@ -31,8 +31,9 @@ public class Main {
 		// sitede birden fazla kurs seçilip tek seferde işlem yapılacaksa
 		//for (Course course: courses) {
 		//	courseManager.addCourse(course);
+		//}
 		
-		}
+		
 			
 	}
 
