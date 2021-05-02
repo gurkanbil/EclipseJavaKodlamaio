@@ -3,7 +3,7 @@ package oopHomework;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Course course1 = new Course(1,"C# Angular", 
 				"yazýlým geliþtirici c# angular kampý", "Engin Demiroð", 10000,"programlama");
 		Course course2 = new Course(2,"java React", 
